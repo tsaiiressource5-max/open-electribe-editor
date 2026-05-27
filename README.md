@@ -1,33 +1,17 @@
 # Open Electribe Editor
 
-# 🚨 Deprecation Notice 🚨
 
-> This project is being converted to a web-based app so that it is easier to maintain and update.
-> The webapp was first released as a BETA version on Monday, November 14th, 2022.
-> I will keep downloads for both Open Electribe Editor and Esx Wave Organizer available, but they
-> will no longer be updated. Please try using https://sawloop.com/ instead, and asking for feature requests there!
+# 🚨 Avis de dépréciation 🚨
 
-## New Web Version
+> Ce projet est en cours de conversion en application web afin de faciliter sa maintenance et ses mises à jour.
+> L'application web a été initialement publiée en version bêta le lundi 14 novembre 2022. > Les téléchargements d'Open Electribe Editor et d'ESX Wave Organizer resteront disponibles, mais ils ne seront plus mis à jour.
 
-Sign up here:  
-https://sawloop.com/
+Veuillez utiliser
+https://sawloop.com/ 
 
-## Archived Version
+et soumettre vos suggestions d'amélioration sur cette plateforme !
+## Nouvelle version web Inscrivez-vous ici : https://sawloop.com/
+## Version archivée
 
-### Open Electribe Editor v1.2.0
-
-Open Electribe Editor (formerly known as ESX Wave Organizer) is a program that allows you to
-organize, edit, and create .esx files for the Korg ESX-1. It is no longer being maintained,
-but archived versions are still available for download below:
-
-https://code.google.com/archive/p/open-electribe-editor/downloads
-
-The archived source code is available by viewing the [v1.2.0](https://github.com/skratchdot/open-electribe-editor/tree/v1.2.0) tag on github:
-
-https://github.com/skratchdot/open-electribe-editor/tree/v1.2.0
-
-## Note
-
-Thanks for your support over the years!
-
--Jeff
+### Open Electribe Editor v1.2.0 Open Electribe Editor (anciennement ESX Wave Organizer) est un programme permettant d'organiser, de modifier et de créer des fichiers .esx pour le Korg ESX-1. Ce logiciel n'est plus maintenu, mais des versions archivées restent disponibles au téléchargement ici : https://code.google.com/archive/p/open-electribe-editor/downloads. Le code source archivé est accessible en consultant l'étiquette [v1.2.0](https://github.com/skratchdot/open-electribe-editor/tree/v1.2.0)
+>sur GitHub : https://github.com/skratchdot/open-electribe-editor/tree/v1.2.0. ## Remarque : Merci pour votre soutien au fil des ans ! – Mj
